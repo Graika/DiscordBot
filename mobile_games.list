@@ -1,6 +1,11 @@
 DOMAIN-SUFFIX,eyugame.com,PROXY
 DOMAIN-SUFFIX,37games.com,PROXY
-DOMAIN-SUFFIX,globalapp.com,PROXY
+DOMAIN-SUFFIX,globallap.com,PROXY
 DOMAIN-SUFFIX,hwrescdn.com,PROXY
 DOMAIN-SUFFIX,superfastgame.com,PROXY
 DOMAIN-SUFFIX,app-analytics-services.com,PROXY
+
+DOMAIN-SUFFIX,lastwarapp.net,PROXY
+DOMAIN-SUFFIX,lastwargame.com,PROXY
+DOMAIN-SUFFIX,lastwar.com,PROXY
+DOMAIN-SUFFIX,akamai​zed.net,PROXY
